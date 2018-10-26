@@ -1,5 +1,5 @@
 <template>
-    <div id="app">
+    <div id="app" class="container">
         <img src="./assets/logo.png" alt="">
         <todo-list></todo-list>
 
@@ -25,6 +25,7 @@
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
+        font-size: 24px;
     }
 
     .container {
